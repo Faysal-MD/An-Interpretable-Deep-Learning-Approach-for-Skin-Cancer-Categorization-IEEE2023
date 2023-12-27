@@ -1,4 +1,4 @@
-# An-Interpretable-Deep-Learning-Approach-for-Skin-Cancer-Categorization
+# An Interpretable Deep Learning Approach for Skin Cancer Categorization
 
 ### 📌 Abstract
 <h4 align="justify" >
