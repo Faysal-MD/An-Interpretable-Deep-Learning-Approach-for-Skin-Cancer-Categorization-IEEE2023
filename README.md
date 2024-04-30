@@ -1,8 +1,16 @@
 # An Interpretable Deep Learning Approach for Skin Cancer Categorization
 
+This repository contains the code and datasets used in the paper titled **"An Interpretable Deep Learning Approach for Skin Cancer Categorization"** accepted and presented at the 26th International Conference on Computer and Information Technology (ICCIT) 2023.
+
+**Paper Link:** [Preprint]([https://www.researchgate.net/publication/378533983_Unmasking_Deepfake_Faces_from_Videos_Using_An_Explainable_Cost-Sensitive_Deep_Learning_Approach](https://arxiv.org/abs/2312.10696))
+
+## Table of Contents
+  - [Dataset](#dataset)
+  - [Result](#result)
+  - [Citation](#citation)
+
 ## Dataset
 We used in this paper publicly available [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) Dataset
-
 
 ## Citation
 If you found this code helpful please consider citing,
@@ -14,6 +22,3 @@ If you found this code helpful please consider citing,
   year={2023}
 }
 ```
-
-### ⚖️ License
-Copyright © 2023 Faysal Mahmud
