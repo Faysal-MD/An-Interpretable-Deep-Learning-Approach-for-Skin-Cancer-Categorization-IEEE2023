@@ -2,7 +2,7 @@
 
 This repository contains the code and datasets used in the paper titled **"An Interpretable Deep Learning Approach for Skin Cancer Categorization"** accepted and presented at the 26th International Conference on Computer and Information Technology (ICCIT) 2023.
 
-**Paper Link:** [Preprint](https://arxiv.org/abs/2312.10696)
+**Paper Link:** [PDF](https://www.researchgate.net/publication/380199255_An_Interpretable_Deep_Learning_Approach_for_Skin_Cancer_Categorization)
 
 ## Table of Contents
   - [Dataset](#dataset)
