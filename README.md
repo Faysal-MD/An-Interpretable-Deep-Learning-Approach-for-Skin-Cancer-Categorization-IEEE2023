@@ -15,10 +15,15 @@ We used in this paper publicly available [HAM10000](https://dataverse.harvard.ed
 ## Citation
 If you found this code helpful please consider citing,
 ```
-@article{mahmud2023interpretable,
-  title={An Interpretable Deep Learning Approach for Skin Cancer Categorization},
-  author={Mahmud, Faysal and Mahfiz, Md Mahin and Kabir, Md Zobayer Ibna and Abdullah, Yusha},
-  journal={arXiv preprint arXiv:2312.10696},
-  year={2023}
+@INPROCEEDINGS{10508527,
+            author={Mahmud, Faysal and Mahfiz, Md. Mahin and Kabir, Md. Zobayer Ibna and Abdullah, Yusha},
+            booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
+            title={An Interpretable Deep Learning Approach for Skin Cancer Categorization}, 
+            year={2023},
+            volume={},
+            number={},
+            pages={1-6},
+            keywords={Deep learning;Visualization;Explainable AI;Computational modeling;Medical services;Skin;Lesions;Skin Cancer Detection;Deep Learning;Pre-trained Models;Convolutional             Neural Networks (CNN);HAM10000;Medical Imaging;Explainable Artificial Intelligence (XAI)},
+            doi={10.1109/ICCIT60459.2023.10508527}
 }
 ```
