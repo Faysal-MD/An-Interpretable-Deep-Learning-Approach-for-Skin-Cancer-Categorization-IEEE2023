@@ -12,6 +12,16 @@ This repository contains the code and datasets used in the paper titled **"An In
 ## Dataset
 We used in this paper publicly available [HAM10000](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) Dataset
 
+## Result
+#### Model-specific Classification Report of Weighted Average
+
+| Models        | Accuracy   | Precision  |  Recall | F1 Score   |
+| ------------- |:-------------:| :-------------:| :-------------:| :-------------:| 
+| **XceptionNet** | **88.72%** | **0.89** | **0.89** | **0.89** |
+| EfficientNetV2S | 88.02% | 0.88 | 0.88 | 0.88 |
+| InceptionResNetV2 | 85.73% | 0.86 | 0.86 | 0.85 |
+| EfficientNetV2M | 85.02% | 0.89 | 0.89 | 0.89 |
+
 ## Citation
 If you found this code helpful please consider citing,
 ```
