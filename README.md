@@ -37,3 +37,7 @@ If you found this code helpful please consider citing,
             doi={10.1109/ICCIT60459.2023.10508527}
 }
 ```
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/Faysal-MD/An-Interpretable-Deep-Learning-Approach-for-Skin-Cancer-Categorization-IEEE2023/blob/main/LICENSE) file for more information.
